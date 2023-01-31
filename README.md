@@ -17,7 +17,7 @@ Inference :
 We observe that Annual Income vs Spending plot gives the best representation of the clusters formed.
 The green group includes the customers who although having lower Income tend to spend high percentage of it.
 Customers belonging to the red ,violet and orange tend to follow a linear relationship between Annual Income and Spend which is what we usually expect.
-
+The blue group represents the customers who although having Annual Income on the high side tend to spend less and this is the group that needs to be especially targeted with special policies so as to entice them to spend more.
 
 
 📜 Credits
