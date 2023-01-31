@@ -12,4 +12,4 @@ You own the mall and want to understand the customers like who can be easily con
 
 📜 Credits
 Vijay Nandeshwar | Data Scientist | Data Analyst | Machine Learning enthusiast
-https://www.linkedin.com/in/vijaynandeshwar
+[Linkedin](https://www.linkedin.com/in/vijaynandeshwar)
